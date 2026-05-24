@@ -1,3 +1,4 @@
+![Reddit Minimizer logo](icon128.png)
 # Reddit Minimizer
 
 A lightweight Chrome extension that declutters Reddit's desktop layout. Hide what you don't need. Keep what matters.
